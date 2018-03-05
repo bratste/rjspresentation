@@ -186,3 +186,89 @@ Este foarte probabil ca daca bag cartela la turnicheti sa pot trece.
 ---
 class: center, middle
 # Rationament Abductiv
+
+---
+class: center, middle
+
+.left-column[
+## Definitie
+
+]
+.right-column[
+Acel tip de rationament folosit pentru a diagnostica ceva/ a afla cauzele unui eveniment.
+]
+
+---
+class: center, middle
+
+.left-column[
+## Definitie
+## Exemplu
+
+]
+.right-column[
+
+Broken computer []img
+
+]
+
+
+---
+class: left, left
+
+.left-column[
+## Definitie
+## Exemplu
+## Detalii
+
+]
+.right-column[
+
++ Proces de aproximari succesive.
+
++ Ipotezele au ca rol micsorarea posibilelor explicatii ale evenimentului.
+
++ Minimizarea timpului de rezolvare.
+
++ Rationament la cea mai buna explicatie.
+
++ Ipotezele trebuie sa poata fi verificate. (NSP)
+
++ 20 de intrebari pot sa identifice 2^20 sau 1,048,576 obiecte diferite 
+
+]
+
+
+---
+class: center, middle
+# Inapoi la testare
+
+---
+class: left, left
+# TOT!
+
+## Planificarea testarii
+
+## Executarea testelor
+
+## Investigarea defectelor
+
+## Estimarea in general
+
+## Discutiile despre risk-uri
+
+---
+class: left, left
+# In Final
+
++ Majoritatea informatiilor pe care le primim sunt mai mult sau mai putin adevarate, niciodata sigure.
+
++ Putem sa ne imbunatatim gandirea
+
++ In experimente : alegerea sistematica a ipotezelor de testat (cata informatie imi ofera, cat de usor e de testat)
+
+---
+class: center, middle
+
+![:scale 110%](/assets/Multumim.jpg)
+

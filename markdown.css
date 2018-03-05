@@ -3,7 +3,7 @@ body {
   }
   h1, h2, h3 {
     font-family: 'Open+Sans, sans-serif';
-    font-weight: 600;
+    font-weight: 400;
     margin-bottom: 0;
   }
   .remark-slide-content h1 { font-size: 2.5em; }
@@ -103,4 +103,5 @@ body {
     width: 75%;
     float: right;
     padding-top: 1em;
+    padding-left: 1em;
   }
