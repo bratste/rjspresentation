@@ -27,8 +27,6 @@ class: center, middle
 ]
 .right-column[
 
-### Nesiguranta
-
 + Cum sa actionam
 
 + Ce sa credem
@@ -73,16 +71,17 @@ class: center, middle
 ## Definitie
 ]
 .right-column[
-Proces de gandire bazat pe reguli care, avînd niste premise adevarate, conduc la concluzii adevarate, inde­pendent de experienta.
++ Proces de gandire bazat pe reguli care, avînd niste premise adevarate, conduc la concluzii adevarate, inde­pendent de experienta.
 
+<br>
+<br>
+**Ex:** 
 
-**Exemplu:**
+Oamenii respira aer.
 
-    Oamenii respira aer.
+Ion este un om.
 
-    Ion este un om.
-
-    Atunci Ion are nevoie de aer.
+Atunci Ion are nevoie de aer.
 ]
 
 ---
@@ -93,13 +92,13 @@ Proces de gandire bazat pe reguli care, avînd niste premise adevarate, conduc l
 ]
 .right-column[
 
-Daca premisele sunt adevarate atunci concluzia este adevarata.
++ Daca premisele sunt adevarate atunci concluzia este adevarata.
 
-Deductia pleaca de la general la particular.
++ Deductia pleaca de la general la particular.
 
-Se bazeaza pe adevaruri generale.
++ Se bazeaza pe adevaruri generale.
 
-Premisele se evalueaza daca sunt valide si logice.
++ Premisele se evalueaza daca sunt valide si logice.
 
 ]
 
@@ -111,9 +110,9 @@ Premisele se evalueaza daca sunt valide si logice.
 ]
 .right-column[
 
-Un sistem mecanic este un sistem in care regulile mecanicii se aplica cu success.
++ Un sistem mecanic este un sistem in care regulile mecanicii se aplica cu success.
 
-Cand folosim matematica mereu definim tipul de numere cu care lucram (specificam sistemul in care operam).
++ Cand folosim matematica mereu definim tipul de numere cu care lucram (specificam sistemul in care operam).
 
 ]
 
@@ -134,7 +133,7 @@ class: center, middle
 ## Definitie
 ]
 .right-column[
-### Proces de gandire in care premisele sunt vazute ca argumente (tari sau slabe) care ajuta la formarea unei concluzii probabile. (Explicatie rezonabila)
++ ### Proces de gandire in care premisele sunt vazute ca argumente (tari sau slabe) care ajuta la formarea unei concluzii probabile. (Explicatie rezonabila)
 
 **Ex:**
 
